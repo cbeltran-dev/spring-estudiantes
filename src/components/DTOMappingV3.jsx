@@ -806,7 +806,7 @@ export default function DTOMappingV3() {
           </p>
         </div>
       </div>
-      <div className="max-w-2xl mx-auto py-6 px-3"></div>
+      <img src="https://hits.sh/cbeltran-dev.github.io/spring-estudiantes.svg"></img>
     </div>
   );
 }
